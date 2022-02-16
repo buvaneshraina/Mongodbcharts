@@ -14,3 +14,7 @@ https://charts.mongodb.com/charts-m001-udnel/public/dashboards/8202a05b-19a0-472
 
 # Annual Potential NY Neighborhood's
 https://charts.mongodb.com/charts-m001-udnel/public/dashboards/620bd5de-6c93-4a84-968c-914eefa064b0
+
+# Average Restaurant Scores by Borough in NY
+
+https://charts.mongodb.com/charts-m001-udnel/public/dashboards/5dcfd8fc-5cea-4065-bcb5-5aeacaae8a26
